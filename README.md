@@ -8,7 +8,7 @@ Soy estudiante de **Tecnicatura en Programación**, actualmente en mi último a�
 
 
 ### 🌱 Actualmente estoy aprendiendo
-- AWS
+- ASP .NET
 
 ### 👯 Me gustaría colaborar en proyectos open source.
 
