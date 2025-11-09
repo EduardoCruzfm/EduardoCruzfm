@@ -4,7 +4,9 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTR2ODlvN251bXFiMHRnaXZ6cnlkejduMDgxOGlxNjBoYXlpYnJxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS40oFiyppsHhvClo2/giphy.gif" width="30px">&nbsp;***About me***
 
-Soy estudiante de **Tecnicatura en Programación**, actualmente en mi último año. Me apasiona el desarrollo de software y estoy ampliando mis conocimientos tanto en **back-end** como en **front-end**. Me encanta aprender y construir cosas nuevas, productivas, innovadoras y creativas.
+Técnico en Programación, apasionado por el desarrollo de software.
+Me interesa el desarrollo full-stack y disfruto crear soluciones innovadoras combinando .NET, TypeScript, Angular, SQL y Firebase.
+Siempre aprendiendo, mejorando y construyendo cosas útiles.
 
 
 ### 🌱 Actualmente estoy aprendiendo
